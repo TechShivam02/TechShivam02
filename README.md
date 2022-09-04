@@ -29,5 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techshivam02&show_icons=true&locale=en" alt="techshivam02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techshivam02&" alt="techshivam02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techshivam02&" alt="techshivam02" /></p> 
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechShivam02&theme=react-dark)](https://github.com/TechShivam02/github-readme-activity-graph)
