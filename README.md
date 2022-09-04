@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techshivam02" alt="techshivam02" /></a> </p>
 
+<image src="./animated.gif" align="right"  height="300px" width="400px" alt="Runnig Cat Gif" />
+
+
 - 🔭 I’m currently working on **Backend Developent**
 
 - 🌱 I’m currently learning **DSA || ReactJs && Backend Developent**
