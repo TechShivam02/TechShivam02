@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shivambansal2024@gmail.com**
 
-- ⚡ Fun fact **Eat || Code || Sleep :)**
+- ⚡ Fun fact **Code || Repeat || Repeat++ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
