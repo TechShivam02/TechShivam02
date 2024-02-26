@@ -34,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techshivam02&show_icons=true&locale=en" alt="techshivam02" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=techshivam02&theme=github-dark)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TechShivam02&bg_color=000000&color=2ac048&line=00ffaa&point=49b9df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechShivam02&bg_color=000000&color=00ff33&line=00ff6e&point=268c4a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
